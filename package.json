@@ -22,7 +22,7 @@
   "homepage": "https://github.com/prakash7755/simple-login-service-with-nodejs-mongodb#readme",
   "dependencies": {
     "@sendgrid/mail": "^6.3.1",
-    "bcrypt": "^2.0.1",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "config": "^1.30.0",
     "cors": "^2.8.4",
